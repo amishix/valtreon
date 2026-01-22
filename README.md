@@ -1,30 +1,24 @@
-# An unusual hero
+# Valtreon – Regenerative Finance Platform
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Valtreon is a student-built prototype platform exploring regenerative finance, ethical technology governance, and decentralised digital infrastructure. The project presents a conceptual fintech interface inspired by sustainable investment systems, transparency-first governance, and socially responsible digital services.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/asharma0220231-3795s-projects/v0-an-unusual-hero)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/HIfqLMSK1a4)
+This repository contains the front-end implementation of the Valtreon website.
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## Deployment Notice
 
-## Deployment
+This project was originally intended to be deployed on Vercel.  
+However, Vercel requires a paid plan for the necessary build configuration used in this project.  
+To avoid deployment limitations, the recommended method is to run the project locally.
 
-Your project is live at:
+---
 
-**[https://vercel.com/asharma0220231-3795s-projects/v0-an-unusual-hero](https://vercel.com/asharma0220231-3795s-projects/v0-an-unusual-hero)**
+## How to Run Locally
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/HIfqLMSK1a4](https://v0.app/chat/HIfqLMSK1a4)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+### 1. Download the repository
+Download the ZIP from GitHub and extract it  
+### 2. Install dependencies
+npm install
+### 2. start the development server
+npm run dev 
